@@ -1,0 +1,27 @@
+#counter {
+    font-size: 24px;
+    margin-bottom: 20px;
+    margin-left: 160px;
+}
+button {
+    font-size: 1rem;
+    padding: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 15px;
+    border: none;
+}
+#plus {
+    background-color: green;
+    color: white;
+}
+
+#cbros {
+    background-color: black;
+    color: white;
+}
+
+#minus {
+    background-color: red;
+    color: white;
+}
